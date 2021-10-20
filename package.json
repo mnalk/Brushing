@@ -1,0 +1,14 @@
+{
+  "name": "@lisilinhart/brushing-example",
+  "main": "c046841f11246954@217.js",
+  "version": "217.0.0",
+  "homepage": "https://observablehq.com/@lisilinhart/brushing-example",
+  "author": {
+    "name": "lisilinhart",
+    "url": "https://observablehq.com/@lisilinhart"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
